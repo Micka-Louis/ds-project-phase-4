@@ -1,0 +1,37 @@
+
+# Environment / OS
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.bak
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+env/
+venv/
+.venv/
+*.env
+
+# Windows system files
+AppData/
+Desktop.ini
+
+# Anaconda specific folders
+.conda/
+.condarc
+.continuum/
+.conda_environments/
+
+# Temporary folders
+tmp/
+temp/
+
+# IDE configuration files
+.vscode/
+.idea/
